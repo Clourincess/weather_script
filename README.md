@@ -8,8 +8,8 @@
 1. **Клонируйте репозиторий**
 
 ```bash
-git clone https://github.com/your-username/weather-cli.git
-cd weather-cli
+git clone https://github.com/Clourincess/weather_script
+cd weather_script
 ```
 
 2. **Установите зависимости**
@@ -32,5 +32,5 @@ API_KEY=ваш_api_ключ
 1. Из корневой папки проекта выполните
 
 ```bash
-python weather.py
+python weather.py название_города
 ```
