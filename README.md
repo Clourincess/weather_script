@@ -1,7 +1,7 @@
 ## Требования
 
 - Python 3.7 или выше
-- Аккаунт на [Weatherapi.com](https://www.weatherapi.com/) для получения API ключа
+- Аккаунт на [weatherapi.com](https://www.weatherapi.com/) для получения API ключа
 
 ## Установка
 
@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 3. **Настройте API ключ**
 
-3.1. Зарегистрируйтесь на WeatherAPI.com, получите бесплатный API ключ.
+3.1. Зарегистрируйтесь на weatherapi.com, получите бесплатный API ключ.
 3.2. создайте файл .env в корневой директории проекта и вставьте строку:
 
 ```bash
