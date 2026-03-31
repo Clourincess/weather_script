@@ -1,7 +1,7 @@
 ## Требования
 
 - Python 3.7 или выше
-- Аккаунт на [WeatherAPI.com](https://www.weatherapi.com/) для получения API ключа
+- Аккаунт на [Weatherapi.com](https://www.weatherapi.com/) для получения API ключа
 
 ## Установка
 
