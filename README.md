@@ -27,4 +27,9 @@ pip install -r requirements.txt
 API_KEY=ваш_api_ключ
 
 ## Запуск
+
+1. Из корневой папки проекта выполните
+
+```bash
 python weather.py
+```
